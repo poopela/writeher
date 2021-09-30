@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-cout << "Maksim Mihailov\n";
+cout << "owner:Maksim Mihailov\n";
 }
